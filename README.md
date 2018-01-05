@@ -1,7 +1,6 @@
 ## Description
 
 This is a simple google cloud function made with firebase that returns "Hello World!" to the browser. It is created for the task
-
 ["Set up a Google Cloud Function that returns "Hello World" to the browser"](https://codein.withgoogle.com/dashboard/task-instances/6377955666165760/)  in GCI.
 
 ## Usage
