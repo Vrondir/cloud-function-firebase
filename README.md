@@ -4,13 +4,9 @@ This is a simple google cloud function made with firebase that returns "Hello Wo
 
 ["Set up a Google Cloud Function that returns "Hello World" to the browser"](https://codein.withgoogle.com/dashboard/task-instances/6377955666165760/)  in GCI.
 
-----
-
 ## Usage
 
 You can access the cloud function [here](https://us-central1-hello-world-3457a.cloudfunctions.net/helloWorld).
-
-----
 
 ## Editing and Deploying
 
