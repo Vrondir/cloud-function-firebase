@@ -8,15 +8,17 @@ This is a simple google cloud function made with firebase that returns "Hello Wo
 
 ## Usage
 
-Because this is a cloud function, the only thing you have to do is to open this link which leads to the function:
-
-https://us-central1-hello-world-3457a.cloudfunctions.net/helloWorld
+You can access the cloud function [here](https://us-central1-hello-world-3457a.cloudfunctions.net/helloWorld).
 
 ----
 
 ## Editing and Deploying
 
-Before editing anything you need to make sure you have [Node.js](https://nodejs.org/en/), and [firebase](https://firebase.google.com/) installed on your computer. To edit the cloud function go inside the "functions" folder, open "index.js", and do your editing. When you are done, open the console and type ```firebase deploy``` *(this may take several seconds)*.
+Before editing anything you need to make sure you have [Node.js](https://nodejs.org/en/), and [firebase](https://firebase.google.com/) installed on your computer.
+
+To edit the cloud function go inside the "functions" folder, open "index.js", and do your editing.
+
+When you are done, open the console and type ```firebase deploy``` *(this may take several seconds)*.
 
 When it's done it should look somthing like this: ![firebase deploy screenshot](https://user-images.githubusercontent.com/7314229/34612354-13202c06-f232-11e7-90b8-2595693fb2fd.png)
 
