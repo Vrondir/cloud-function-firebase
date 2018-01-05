@@ -9,7 +9,7 @@ You can access the cloud function [here](https://us-central1-hello-world-3457a.c
 
 ## Editing and Deploying
 
-Before editing anything you need to make sure you have [Node.js](https://nodejs.org/en/), and [firebase](https://firebase.google.com/) installed on your computer.
+Before editing anything you need to make sure you have [Node.js](https://nodejs.org/en/) and [firebase](https://firebase.google.com/) installed on your computer.
 
 To edit the cloud function go inside the "functions" folder, open "index.js", and do your editing.
 
